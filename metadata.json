@@ -1,0 +1,5 @@
+{
+  "name": "Anil AI Poster Designer 1.1",
+  "description": "An interactive poster designing application that uses AI to remove backgrounds, generate creative concepts from user prompts, and allow for iterative refinements. Users can upload product images, select aspect ratios, and generate, refine, and save futuristic posters.",
+  "requestFramePermissions": []
+}
